@@ -1,0 +1,5 @@
+sudo docker run hello-world
+
+وقتی پیام hello world  رو دریافت میکنید به سراغ نصب پکیج نود nulink می رید 
+
+sudo apt update && sudo apt upgrade -y
